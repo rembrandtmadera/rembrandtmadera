@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rembrandtmadera
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate with designers and developers
 - 📫 How to reach me https://x.com/rembrandtmadera
 - 😄 Pronouns: Mr
